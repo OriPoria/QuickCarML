@@ -1,0 +1,11 @@
+azureml-core
+azureml-train
+numpy
+tensorflow
+sklearn
+keras
+seaborn
+opencv-python
+h5py
+imgaug
+IPython[all]
